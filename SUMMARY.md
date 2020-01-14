@@ -3,7 +3,8 @@
   * [Introduction](README.md)
   * [第一章 认识 Py-Py 狗](ch0/preface.md)
       * [1.1 序言](ch0/RepSearchPractice.md)
-      * [1.2 本书适合什么人](ch0/RepTaskBasic.md)_
+      * [1.2 本书适合什么人](ch0/RepTaskBasic.md)
+        * [1.2 本书适合什么人](ch0/RepTaskBasic.md)
       * [1.3 Py-Py狗是什么](ch0/RepTaskAdvanced.md)
       * [1.4 Py-py dog 适合做什么](ch0/handbook.md)
       * [1.5  Pypy dog 不适合做什么](ch0/handbook.md)
