@@ -1,6 +1,6 @@
-  # Summary
+﻿  # Summary
 
-  * [Introduction](README.md)
+  * [Introduction](ch1/basictest.md)
   * [第一章 认识 Py-Py 狗](ch0/preface.md)
       * [1.1 序言](ch0/RepSearchPractice.md)
       * [1.2 本书适合什么人](ch0/RepTaskBasic.md)_
