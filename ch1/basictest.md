@@ -27,4 +27,4 @@
 >	dog.PS2_mode(True)
 >```
 
-![avatar](1.png)
+![avatar](/pic/1.png)
