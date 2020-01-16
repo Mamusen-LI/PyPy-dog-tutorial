@@ -59,7 +59,7 @@
       * [6.5 OpenMV接线](ch6/6.5.md)
   * [第七章 扩展知识](ch6/README.md)
       * [7.1. 仿生机器人行业介绍](ch0/RepSearchPractice.md)
-      * [7.2  机器狗行业介绍](ch6/RepTaskBasic.md)
+      * [7.2  机器狗行业介绍](ch7/7.2.md)
       * [7.3 机器狗类型介绍（按腿分）](ch7/7.3.md)
       * [7.4 机器狗机械结构介绍](ch6/handbook.md)
       * [7.5 机器狗步态介绍](ch7/7.5.md)
