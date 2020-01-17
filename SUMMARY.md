@@ -35,7 +35,7 @@
     * [5.1.4 温度与狗](ch5/5.1.4.md)
     * [5.1.5 仿生鸣叫](di-wu-zhang-li-cheng-xiang-jie/5.1-you-xiao-bai-dao-liu-gou-da-shi/5.1.5-fang-sheng-ming-jiao.md)
     * [5.1.6 机器狗跳舞](di-wu-zhang-li-cheng-xiang-jie/5.1-you-xiao-bai-dao-liu-gou-da-shi/5.1.6-ji-qi-gou-tiao-wu.md)
-    * [5.1.7 与歌共舞](ch5/5.1.7.md)
+    * [5.1.7 与歌共舞](ch5/5.1.6.md)
     * [5.1.8 超声波避障](di-wu-zhang-li-cheng-xiang-jie/5.1-you-xiao-bai-dao-liu-gou-da-shi/5.1.8-chao-sheng-bo-bi-zhang.md)
     * [5.1.9 穿越火线](di-wu-zhang-li-cheng-xiang-jie/5.1-you-xiao-bai-dao-liu-gou-da-shi/5.1.9-chuan-yue-huo-xian.md)
   * [5.2 由遛狗大师到视觉高手](di-wu-zhang-li-cheng-xiang-jie/5.2-you-liu-gou-da-shi-dao-shi-jue-gao-shou/README.md)
