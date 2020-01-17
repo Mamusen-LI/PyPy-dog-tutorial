@@ -1,6 +1,5 @@
 ﻿  # Summary
 
-  * [Introduction](ch1/basictest.md)
   * [第一章 认识 Py-Py 狗](ch0/preface.md)
       * [1.1 湃湃狗真棒！](ch1/1.1.md)
       * [1.2 湃湃狗是什么？](ch1/1.2.md)
