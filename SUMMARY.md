@@ -9,7 +9,7 @@
   * [第二章 Py-Py狗详细参数](ch0/README.md)
       * [2.0 参考列表](ch2/2.0.md)
   * [第三章 十分钟快速上手](ch2/README.md)
-      * [3.1 编程环境--软件安装](ch0/RepSearchPractice.md)
+      * [3.1 编程环境--软件安装](ch3/3.1.md)
         * [3.1.1. OpenMV IDE安装](ch3/3.1.1.md)
         * [3.1.2  Putty 使用](ch3/3.1.2.md)
         * [3.1.3 安装 NOTEPAD++](ch3/3.1.3.md)
