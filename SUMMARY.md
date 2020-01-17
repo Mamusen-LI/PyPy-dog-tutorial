@@ -1,6 +1,6 @@
 # Table of contents
 
-* [第一只Python开源四足机器狗](README.md)
+* [第一只 Python 开源四足机器狗](README.md)
 * [第一章 认识 Py-Py 狗](ch1/1.0.md)
 * [第二章 Py-Py狗详细参数](di-er-zhang-pypy-gou-xiang-xi-can-shu/README.md)
   * [2.0 参考列表](ch2/2.0.md)
