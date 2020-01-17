@@ -46,7 +46,7 @@
     * [5.2.5 人脸识别跟随](di-wu-zhang-li-cheng-xiang-jie/5.2-you-liu-gou-da-shi-dao-shi-jue-gao-shou/5.2.5-ren-lian-shi-bie-gen-sui.md)
     * [5.2.6 颜色寻找与追踪--进阶版](ch5/5.2.6.md)
 * [第六章 维修与维护](di-liu-zhang-wei-xiu-yu-wei-hu/README.md)
-  * [6.1 大腿安装](di-liu-zhang-wei-xiu-yu-wei-hu/6.1-da-tui-an-zhuang.md)
+  * [6.1 大腿安装](ch6/6.1.md)
   * [6.2 身体安装](di-liu-zhang-wei-xiu-yu-wei-hu/6.2-shen-ti-an-zhuang.md)
   * [6.3 舵机接线](ch6/6.3.md)
   * [6.4 Pyboard与主板接线](ch6/6.4.md)
