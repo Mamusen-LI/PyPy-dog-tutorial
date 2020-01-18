@@ -8,7 +8,7 @@
     * [3.1.1 安装 NOTEPAD++](ch3/3.1.3.md)
     * [3.1.2. OpenMV IDE安装](ch3/3.1.1.md)
     * [3.1.3  Putty 使用](ch3/3.1.2.md)
-  * [3.2 编程环境--调试](di-san-zhang-shi-fen-zhong-kuai-su-shang-shou/3.2-bian-cheng-huan-jing-tiao-shi/README.md)
+  * [3.2 编程环境--调试](ch3/3.2.md)
     * [3.2.1 用NOTEPAD++ 和 PUTTY进行编程](ch3/3.2.1.md)
     * [3.2.2 简单上手程序](ch3/3.2.2.md)
 * [第四章 基本运动库介绍](di-si-zhang-ji-ben-yun-dong-ku-jie-shao/README.md)
