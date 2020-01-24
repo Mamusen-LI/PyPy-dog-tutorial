@@ -31,7 +31,7 @@
     * [5.1.2 手柄遥控](ch5/5.1.2.md)
     * [5.1.3 一触即发](ch5/5.1.3.md)
     * [5.1.4 温度与狗](ch5/5.1.4.md)
-    * [5.1.5 仿生鸣叫](di-wu-zhang-li-cheng-xiang-jie/5.1-you-xiao-bai-dao-liu-gou-da-shi/5.1.5-fang-sheng-ming-jiao.md)
+    * [5.1.5 仿生鸣叫](ch5/5.1.5.md)
     * [5.1.6 机器狗跳舞](ch5/5.1.6.md)
     * [5.1.7 与歌共舞](ch5/5.1.7.md)
     * [5.1.8 超声波避障](ch5/5.1.8.md)
