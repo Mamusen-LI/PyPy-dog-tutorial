@@ -14,14 +14,14 @@
 #实现走一个正方形路径
 import dog
 
-dog.walk(8)           #直行8步
-dog.turn(5)           #右转5步
-dog.walk(8)           #下面的请以此类推
-dog.turn(5)
-dog.walk(8)
-dog.turn(5)
-dog.walk(8)
-dog.turn(5)
+dog.walk(8)           #直行8步,正方形的第一边
+dog.turn(5)           #右转5步（左转90°）
+dog.walk(8)           #再直行8步,形成正方形的第二边
+dog.turn(5)           #右转5步（左转90°）
+dog.walk(8)           #再直行8步,形成正方形的第三边
+dog.turn(5)           #右转5步（左转90°）
+dog.walk(8)           #再直行8步,形成正方形的第四边
+dog.turn(5)           #右转5步（左转90°），回到初始位置
 
 #效果展示视频：https://www.bilibili.com/video/av84631957?from=search&seid=18222795985402716914
 ```
