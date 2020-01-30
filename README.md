@@ -34,3 +34,11 @@ dog.turn(5)           #右转5步（左转90°），回到初始位置
 
 ![](.gitbook/assets/1%20%2817%29.png)
 
+## 联系我们
+
+淘宝：[https://shop564514875.taobao.com/](https://shop564514875.taobao.com/)
+
+B站：[https://space.bilibili.com/493192058?spm\_id\_from=333.788.b\_765f7570696e666f.2](https://space.bilibili.com/493192058?spm_id_from=333.788.b_765f7570696e666f.2)
+
+QQ号：915767895
+
